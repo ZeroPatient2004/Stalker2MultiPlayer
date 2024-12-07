@@ -1,5 +1,7 @@
 # Multiplayer Mod for S.T.A.L.K.E.R. 2
 
+![mp](mp.png)
+
 This mod adds multiplayer functionality to **S.T.A.L.K.E.R. 2**, allowing players to interact within the same game world. Currently, the number of simultaneous connections is limited to **100 players**.
 
 ## Features
