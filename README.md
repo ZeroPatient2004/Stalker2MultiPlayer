@@ -15,7 +15,7 @@ This mod adds multiplayer functionality to **S.T.A.L.K.E.R. 2**, allowing player
 
 - **/mypos** — displays your current coordinates in the game world.
 
-- **/settime 14* — sets the time of day to the specified value (e.g., 14 sets it to 14:00).
+- **/settime 14** — sets the time of day to the specified value (e.g., 14 sets it to 14:00).
 
 ## Notes
 
