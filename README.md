@@ -30,6 +30,10 @@ This mod adds multiplayer functionality to **S.T.A.L.K.E.R. 2**, allowing player
 
 If you have any questions or issues, feel free to ask for help via the **Issues** section in the repository.
 
+## VirusTotal
+
+For safety, you can scan the mod file using **[VirusTotal](https://www.virustotal.com/gui/file/7e77a6fa03834118be04e643e8faecffdff7a7d8715420db7e6a2e54b2e31b21/detection)** to ensure it's free of any malicious content.
+
 ---
 
 **Enjoy your game and good luck in the Zone!**
