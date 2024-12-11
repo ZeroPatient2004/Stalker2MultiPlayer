@@ -32,7 +32,7 @@ If you have any questions or issues, feel free to ask for help via the **Issues*
 
 ## VirusTotal
 
-For safety, you can scan the mod file using **[VirusTotal](https://www.virustotal.com/gui/file-analysis/YjY4NGZiOTkwZDllZjM3YTRmYTYxZjNmNzQ2MmM1YzI6MTczMzkyNDkyNw==)** to ensure it's free of any malicious content.
+For safety, you can scan the mod file using **[VirusTotal](https://www.virustotal.com/gui/file/d613cf559f224c14f9ae7440d08371bdcd512a07f87390d8f2ed5f43a696a7fa)** to ensure it's free of any malicious content.
 
 ---
 
