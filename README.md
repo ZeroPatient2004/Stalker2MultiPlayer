@@ -13,6 +13,10 @@ This mod adds multiplayer functionality to **S.T.A.L.K.E.R. 2**, allowing player
 
 - **/tp 1 2 3** — teleports you to the specified coordinates. Replace `1 2 3` with the desired values to move to a specific point on the map.
 
+- **/mypos** — displays your current coordinates in the game world.
+
+- **/settime 14* — sets the time of day to the specified value (e.g., 14 sets it to 14:00).
+
 ## Notes
 
 - This mod is designed to enhance the multiplayer experience, and we are continuously working on improving it. New features and bug fixes will be added in the future.
@@ -20,7 +24,7 @@ This mod adds multiplayer functionality to **S.T.A.L.K.E.R. 2**, allowing player
 ## Launch
 
 1. Run **S2MPLauncher.exe**.
-2. In the window that appears, select the game by navigating to **GamePath\Stalker2\Binaries\Win64\Stalker2-Win64-Shipping.exe**.
+2. Run game.
 
 ## Support
 
