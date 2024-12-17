@@ -23,8 +23,10 @@ This mod adds multiplayer functionality to **S.T.A.L.K.E.R. 2**, allowing player
 
 ## Launch
 
-1. Run **S2MPLauncher.exe**.
-2. Run game.
+1. Extract the archive.
+2. Run **S2MPLauncher.exe**.
+3. Run game.
+4. After launching **S2MPLauncher.exe**, a console window will open and automatically close once the game is detected.
 
 ## Support
 
@@ -32,7 +34,7 @@ If you have any questions or issues, feel free to ask for help via the **Issues*
 
 ## VirusTotal
 
-For safety, you can scan the mod file using **[VirusTotal](https://www.virustotal.com/gui/file/d613cf559f224c14f9ae7440d08371bdcd512a07f87390d8f2ed5f43a696a7fa)** to ensure it's free of any malicious content.
+For safety, you can scan the mod file using VirusTotal to ensure it's free of any malicious content. The current link for the scan can be found in the "releases" thread.
 
 ---
 
