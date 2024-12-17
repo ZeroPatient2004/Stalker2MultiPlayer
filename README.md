@@ -35,6 +35,7 @@ If you have any questions or issues, feel free to ask for help via the **Issues*
 ## VirusTotal
 
 For safety, you can scan the mod file using VirusTotal to ensure it's free of any malicious content.
+
 The current link for the scan can be found in the "releases" thread.
 
 ---
