@@ -1,3 +1,7 @@
+<div align="center">
+    <a href="https://discord.gg/9y5KNS7j35"><img src="https://img.shields.io/discord/1336798060696703138?logo=discord"/>
+</div>
+
 # Multiplayer Mod for S.T.A.L.K.E.R. 2
 
 ![mp](mp.png)
