@@ -13,7 +13,6 @@ This mod adds multiplayer functionality to **S.T.A.L.K.E.R. 2**, allowing player
 ### Commands:
 
 - **/fly** — activates or deactivates flight mode.  
-  *Note*: If you're in flight mode, your position won't load for other players. To fix this, walk into the rendering zone on foot.
 
 - **/tp 1 2 3** — teleports you to the specified coordinates. Replace `1 2 3` with the desired values to move to a specific point on the map.
 
