@@ -13,12 +13,15 @@ This mod adds multiplayer functionality to **S.T.A.L.K.E.R. 2**, allowing player
 ### Commands:
 
 - **/fly** — activates or deactivates flight mode.  
-
 - **/tp 1 2 3** — teleports you to the specified coordinates. Replace `1 2 3` with the desired values to move to a specific point on the map.
-
 - **/mypos** — displays your current coordinates in the game world.
-
 - **/settime 14** — sets the time of day to the specified value (e.g., 14 sets it to 14:00).
+
+## Chat Controls
+
+- Press **T** to open the chat window.
+- Press **Enter** to send a message.
+- Press **Esc** to close the chat.
 
 ## Notes
 
